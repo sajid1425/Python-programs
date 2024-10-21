@@ -1,4 +1,5 @@
 import numpy as np
+
 arr1=np.array([[1,2,3],[4,5,6],[7,8,9]])
 arr2=np.array([[11,22,33],[44,55,66],[77,88,99]])
 
@@ -6,6 +7,7 @@ print("Array1")
 print(arr1)
 print("Array2")
 print(arr2)
+
 #1. Arithmetic Operation
 result=arr1+arr2
 print("Result arr1+arr2")
