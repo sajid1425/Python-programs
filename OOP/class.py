@@ -1,7 +1,7 @@
 class name :  #Class
     def __init__(self,uname,uy): #constructor
         self.uname=uname
-        self.uy=uy      
+        self.uy=uy
     def year(self): # method
         print(self.uname+" is studing in "+self.uy)
     def intro(self):
