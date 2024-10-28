@@ -30,7 +30,7 @@ print("Dot Product")
 result=np.dot(arr1,arr2)
 print(result)
 
-#3. Sum
+#3. sSum
 print("Sum")
 result=np.sum(arr1)
 print(result)
