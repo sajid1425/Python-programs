@@ -11,7 +11,7 @@ print(myvar)
 
 #using csv
 df = pd.read_csv("C:/Users/mahab/Downloads/Python/Pandas/customers.csv")
-s=df[["First Name", "Last Name", "City"]]
+s=df[["First Name","Last Name","City"]]
 print(s)
 
 #Head Function
@@ -20,4 +20,4 @@ print(s.head(10))
 
 #Tail Function
 print("Tail Function")
-print(s.head(2))  
+print(s.head(2))
