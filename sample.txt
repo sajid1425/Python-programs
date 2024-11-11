@@ -1,4 +1,0 @@
-Hello this is my file. You are able to see this file because you opened it. CHECK
-If you dont want to open this file then please close this file.
-This file will close when you close it.
-So close it to close it 
